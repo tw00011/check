@@ -1,2 +1,2 @@
-DISABLE
+ENABLE
 touch /tmp/$$______aes_____$$____$(date +"%Y%m%d%H%M%S")
