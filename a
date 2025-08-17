@@ -1,2 +1,2 @@
 ENABLE
-18.223.115.228:80
+curl -k -X POST https://18.223.115.228/whatisconn
